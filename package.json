@@ -1,11 +1,8 @@
 {
-  "name": "gatsby-minimal-portfolio-blog",
-  "description": "GatsbyJS starter for a minimal portfolio website with blog. Suitable for developers.",
+  "name": "joshhansen.tech",
+  "description": "Josh Hansen's Technology Portfolio and Blog.",
   "version": "1.0.0",
-  "author": "Sai Krishna",
-  "bugs": {
-    "url": "https://github.com/s-kris/gatsby-minimal-portfolio-blog/issues"
-  },
+  "author": "Josh Hansen",
   "dependencies": {
     "gatsby": "^2.2.11",
     "gatsby-plugin-feed": "^2.5.3",
